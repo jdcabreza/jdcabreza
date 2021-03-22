@@ -1,7 +1,7 @@
 # About Me
 Hello! I'm Nathan! I'm...
 - Currently a 4th year CS undergrad student
-- Currently learning about GANs and computer graphics
+- Currently learning about GANs and physically-based rendering
 
 You can reach me via email or on Twitter. :)
 
