@@ -1,11 +1,7 @@
 # About Me
-Hello! I'm Nathan! I'm...
-- Currently a 4th year CS undergrad student
-- Currently learning about GANs and physically-based rendering
+Hello! I'm Nathan! I'm currently working as a software engineer, but in my free time I like to dabble in GANs and rendering. :)
 
-I'm looking to get some proper projects on here when I have time off from school, so for now this place will be mostly empty. Sorry about that. D:
-
-I can be reached via Twitter or email. :)
+I can be reached via Twitter or email.
 
 <!---
 jdcabreza/jdcabreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
