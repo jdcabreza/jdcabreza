@@ -1,7 +1,10 @@
 # About Me
-Hello! I'm Nathan! I'm currently working as a software engineer, but in my free time I like to dabble in GANs and rendering. :)
+👋 Hey there, I'm Nathan! I'm a software engineer from the Philippines, currently working in the FinTech industry.
 
-I can be reached via Twitter or email.
+- 💻 Currently working with TypeScript and Nest.js
+- 🌱 Currently learning about Machine Learning and Rendering
+
+You can contact me on [LinkedIn](https://www.linkedin.com/in/nathancabreza/) or [send me an email](mailto:nathan.cabreza1@gmail.com)! :)
 
 <!---
 jdcabreza/jdcabreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
