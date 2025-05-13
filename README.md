@@ -14,6 +14,7 @@ You can find all my writing in this repository: [writing](https://github.com/jdc
 
 **Recent Posts**
 
+- [Some Code-Level Lessons Over the Years](https://github.com/jdcabreza/writing/blob/main/engineering/engg-lessons.md)
 - [Building ML from Scratch: A Postmortem](https://github.com/jdcabreza/writing/blob/main/engineering/ml-from-scratch-postmortem.md)
 
 ## 🧪 Projects
